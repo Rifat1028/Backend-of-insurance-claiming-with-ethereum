@@ -1,0 +1,2 @@
+***You need to add metamask and Ganach as wallet to run this.
+***Or you need to run this with remax.
