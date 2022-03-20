@@ -1,2 +1,4 @@
 ***You need to add metamask and Ganach as wallet to run this.
 ***Or you need to run this with remax.
+
+Mainly it's a smart contract for insurence company to manage their insurence management system.
